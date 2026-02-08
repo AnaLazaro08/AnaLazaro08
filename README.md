@@ -1,11 +1,5 @@
 <br clear="both">
 
-<div align="center">
-  <a href="www.linkedin.com/in/ana-gabryelli-jesus-lazaro-54514433b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
 ###
 
 <h1 align="left">🌟Bem-vindo ao meu GitHub!</h1>
