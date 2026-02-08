@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Sou uma Desenvolvedora formada pelo SENAI!<br>📚 Atualmente cursando Engenharia da Computação.<br>🎯 Futura Engenheira de Software.<br>👩🏼‍💻 Construindo projetos para desenvolver minhas habilidades e mostrar minha jornada.</p>
+<p align="left">✨ Desenvolvedora formada pelo SENAI!<br>📚 Atualmente cursando Engenharia da Computação.<br>🎯 Futura Engenheira de Software.<br>👩🏼‍💻 Construindo projetos para desenvolver minhas habilidades e mostrar minha jornada.</p>
 
 ###
 
